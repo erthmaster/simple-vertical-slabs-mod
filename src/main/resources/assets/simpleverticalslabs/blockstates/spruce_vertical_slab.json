@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "double=false,facing=north": {
+            "model": "simpleverticalslabs:spruce_vertical_slab",
+            "uvlock": true
+        },
+        "double=false,facing=east": {
+            "model": "simpleverticalslabs:spruce_vertical_slab",
+            "uvlock": true,
+            "y": 90
+        },
+        "double=false,facing=south": {
+            "model": "simpleverticalslabs:spruce_vertical_slab",
+            "uvlock": true,
+            "y": 180
+        },
+        "double=false,facing=west": {
+            "model": "simpleverticalslabs:spruce_vertical_slab",
+            "uvlock": true,
+            "y": 270
+        },
+        "double=true,facing=north": {
+            "model": "spruce_planks"
+        },
+        "double=true,facing=east": {
+            "model": "spruce_planks"
+        },
+        "double=true,facing=south": {
+            "model": "spruce_planks"
+        },
+        "double=true,facing=west": {
+            "model": "spruce_planks"
+        },
+        "inventory": {
+            "model": "simpleverticalslabs:spruce_vertical_slab"
+        }
+    }
+}

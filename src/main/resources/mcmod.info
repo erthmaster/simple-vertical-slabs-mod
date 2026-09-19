@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simpleverticalslabs",
+  "name": "Simple Vertical Slabs",
+  "description": "Minimalistic mod that adds a vertical version of every vanilla slab.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["erthmaster"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

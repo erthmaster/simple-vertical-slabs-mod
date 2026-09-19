@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "double=false,facing=north": {
+            "model": "simpleverticalslabs:purpur_vertical_slab",
+            "uvlock": true
+        },
+        "double=false,facing=east": {
+            "model": "simpleverticalslabs:purpur_vertical_slab",
+            "uvlock": true,
+            "y": 90
+        },
+        "double=false,facing=south": {
+            "model": "simpleverticalslabs:purpur_vertical_slab",
+            "uvlock": true,
+            "y": 180
+        },
+        "double=false,facing=west": {
+            "model": "simpleverticalslabs:purpur_vertical_slab",
+            "uvlock": true,
+            "y": 270
+        },
+        "double=true,facing=north": {
+            "model": "purpur_block"
+        },
+        "double=true,facing=east": {
+            "model": "purpur_block"
+        },
+        "double=true,facing=south": {
+            "model": "purpur_block"
+        },
+        "double=true,facing=west": {
+            "model": "purpur_block"
+        },
+        "inventory": {
+            "model": "simpleverticalslabs:purpur_vertical_slab"
+        }
+    }
+}

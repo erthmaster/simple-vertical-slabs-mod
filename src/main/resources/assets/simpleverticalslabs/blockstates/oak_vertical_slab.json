@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "double=false,facing=north": {
+            "model": "simpleverticalslabs:oak_vertical_slab",
+            "uvlock": true
+        },
+        "double=false,facing=east": {
+            "model": "simpleverticalslabs:oak_vertical_slab",
+            "uvlock": true,
+            "y": 90
+        },
+        "double=false,facing=south": {
+            "model": "simpleverticalslabs:oak_vertical_slab",
+            "uvlock": true,
+            "y": 180
+        },
+        "double=false,facing=west": {
+            "model": "simpleverticalslabs:oak_vertical_slab",
+            "uvlock": true,
+            "y": 270
+        },
+        "double=true,facing=north": {
+            "model": "oak_planks"
+        },
+        "double=true,facing=east": {
+            "model": "oak_planks"
+        },
+        "double=true,facing=south": {
+            "model": "oak_planks"
+        },
+        "double=true,facing=west": {
+            "model": "oak_planks"
+        },
+        "inventory": {
+            "model": "simpleverticalslabs:oak_vertical_slab"
+        }
+    }
+}

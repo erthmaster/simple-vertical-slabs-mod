@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:wooden_slab",
+            "data": 3
+        }
+    ],
+    "result": {
+        "item": "simpleverticalslabs:jungle_vertical_slab"
+    }
+}

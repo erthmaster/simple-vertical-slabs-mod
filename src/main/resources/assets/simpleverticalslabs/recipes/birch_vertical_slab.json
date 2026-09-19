@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:planks",
+            "data": 2
+        }
+    },
+    "result": {
+        "item": "simpleverticalslabs:birch_vertical_slab",
+        "count": 6
+    }
+}

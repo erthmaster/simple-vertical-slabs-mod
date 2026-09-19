@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:wooden_slab",
+            "data": 4
+        }
+    ],
+    "result": {
+        "item": "simpleverticalslabs:acacia_vertical_slab"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:planks",
+            "data": 5
+        }
+    },
+    "result": {
+        "item": "simpleverticalslabs:dark_oak_vertical_slab",
+        "count": 6
+    }
+}

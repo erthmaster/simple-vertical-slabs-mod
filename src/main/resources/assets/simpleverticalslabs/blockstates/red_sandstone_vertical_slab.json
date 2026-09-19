@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "double=false,facing=north": {
+            "model": "simpleverticalslabs:red_sandstone_vertical_slab",
+            "uvlock": true
+        },
+        "double=false,facing=east": {
+            "model": "simpleverticalslabs:red_sandstone_vertical_slab",
+            "uvlock": true,
+            "y": 90
+        },
+        "double=false,facing=south": {
+            "model": "simpleverticalslabs:red_sandstone_vertical_slab",
+            "uvlock": true,
+            "y": 180
+        },
+        "double=false,facing=west": {
+            "model": "simpleverticalslabs:red_sandstone_vertical_slab",
+            "uvlock": true,
+            "y": 270
+        },
+        "double=true,facing=north": {
+            "model": "red_sandstone_normal"
+        },
+        "double=true,facing=east": {
+            "model": "red_sandstone_normal"
+        },
+        "double=true,facing=south": {
+            "model": "red_sandstone_normal"
+        },
+        "double=true,facing=west": {
+            "model": "red_sandstone_normal"
+        },
+        "inventory": {
+            "model": "simpleverticalslabs:red_sandstone_vertical_slab"
+        }
+    }
+}
